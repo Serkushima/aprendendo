@@ -24,4 +24,4 @@ console.log(`A soma de ${g} e ${h} é igual a ${g + h}`);
 console.log("Resultado: " + (g + h));
 console.log("Resultado: " + (g + h));
 
-console.log("Soma com conversão: " + (parseInt(e) + parseInt(f)));
+console.log("Soma com conversão: " + (parseInt(e) + parseInt(f))); //olá
