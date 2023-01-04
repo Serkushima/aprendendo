@@ -1,5 +1,5 @@
 let a = "Olá, ";
-let b = "tudo bem?";
+let b = "OI";
 let x = a + b;
 
 console.log(x);
